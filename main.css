@@ -161,12 +161,12 @@ h1 span {
 }
 
 .promo-left {
-  background-image: url("image/clothe_left.jpg");
+  background-image: url("/clothe_left.jpg");
   padding: 116px 50px;
 }
 
 .promo-right {
-  background-image: url("image/clothe_right.jpg");
+  background-image: url("/clothe_right.jpg");
   padding: 102px 50px;
 }
 
